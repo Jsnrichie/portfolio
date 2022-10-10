@@ -11,8 +11,9 @@ export const projects = [
     title: "Tic Tac Toe",
     subtitle: "Python",
     description:
-      "A terminal based traditional tic tac toe game, made with Python3. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-    image: "./project-2.gif",
+      "A traditional tic tac toe game, made with Python3. Features a terminal based UI, 2-player turn based system. ",
+    // image: "./project-2.gif",
+    image: "https://media.giphy.com/media/f9epkzmnR0R5smiNls/giphy.gif",
     link: "https://github.com/Jsnrichie/tic-tac-toe",
   },
   // {
