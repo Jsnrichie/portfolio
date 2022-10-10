@@ -8,12 +8,12 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Tic Tac Toe",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A terminal based traditional tic tac toe game, made with Python3. Lorem ipsum dolor sit amet consectetur adipisicing elit",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Jsnrichie/tic-tac-toe",
   },
   // {
   //   title: "DevChat",
